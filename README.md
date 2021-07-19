@@ -13,6 +13,7 @@ Read further to know how **you** can start contributing to MS Club!
 - [Learning Resources](#i-really-want-to-contribute-but-where-do-i-start)
 
 ## [Tech Stack](#Tech-Stack)
+![banner-whitebg](https://user-images.githubusercontent.com/73905901/126191192-65dd9bc2-3d20-4dda-bec8-9b4026e5b250.png)
 
 ### Front-End
 - HTML 
